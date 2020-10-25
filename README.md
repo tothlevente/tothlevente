@@ -2,7 +2,7 @@
 
 ## I'm Tóth Levente 👋
 
-#### I'm a Developer. I have always been interested in software, hardware and writing programs.
+#### I'm a developer. I have always been interested in software, hardware and writing programs.
 
 - 🔭 I’m currently working on [introduction-website](https://github.com/tothlevente/introduction-website)
 - 🌱 I’m currently learning React, Redux and .NET Core
