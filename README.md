@@ -36,7 +36,7 @@
 
 <br />
 
-<img align="left" alt="tothlevente's GitHub Stats" src="https://github-readme-stats-eta-lovat.vercel.app/api?username=tothlevente&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&hide=prs" />
+<img align="left" alt="tothlevente's GitHub Stats" src="https://github-readme-stats-bice-zeta.vercel.app/api?username=tothlevente&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&hide=prs" />
 
 <br />
 
