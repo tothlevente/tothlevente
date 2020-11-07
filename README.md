@@ -2,6 +2,8 @@
 
 ## I'm Tóth Levente 👋
 
+#### I'm a developer.
+
 #### I have always been interested in software, hardware and writing programs.
 
 ### Connect with me:
