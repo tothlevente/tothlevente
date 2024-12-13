@@ -1,6 +1,6 @@
 Hi there! 👋 
 
-I will create free, open source and ad free web 🌏, desktop 💻 and mobile 📱 applications. 
+I will create open source and ad free web 🌏, desktop 💻 and mobile 📱 applications. 
 
 For more information please visit my repositories. 👀 
 
