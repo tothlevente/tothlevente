@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I will create open source and ad free apps for everyone. 🌏
+I will create open source and ad free applications for everyone. 🌏
 
 For more information please visit my repositories. 👀
 
