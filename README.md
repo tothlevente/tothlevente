@@ -1,7 +1,7 @@
-Hi there! 👋
+# Hello! 👋 
 
-I will create open-source and ad-free applications for everyone. 🌏
+I'm committed to creating open-source and ad-free applications accessible to all. 🌎 
 
-For more information please visit my repositories. 👀
+Explore my repositories for more information. 👀 
 
-Thank you for visiting! 👍
+**Thank you for stopping by! 👍**
